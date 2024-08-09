@@ -50,9 +50,8 @@ The face mask detector didn't use any morphed masked images dataset. The model i
 ```
 ## Usage
 
-1. Run the Streamlit app by executing:
+1. Run the Python app by executing:
 ```bash
-
 python.exe  face_mask_detect_app.py
 ```
 
